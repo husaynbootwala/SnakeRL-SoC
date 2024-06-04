@@ -11,12 +11,24 @@ Welcome to Seasons of Code 2024 - SnakeRL
 4. Learning about Markov Chains.
 
 ### Resources-
-Python Basics- https://youtu.be/rfscVS0vtbw?si=wOI8q3u0cpHpA-aF\
-Version Control with Git- https://youtu.be/IVquJh3DXUA
-Markov Chains- https://youtu.be/i3AkTO9HLXo?si=i6DtXuC9MLs92DBg
+- Python Basics- https://youtu.be/rfscVS0vtbw?si=wOI8q3u0cpHpA-aF\
+- Version Control with Git- https://youtu.be/IVquJh3DXUA
+- Markov Chains- https://youtu.be/i3AkTO9HLXo?si=i6DtXuC9MLs92DBg
 
 To-Do:
 
 - Complete the following Python task
 - ![image](https://github.com/husaynbootwala/SnakeRL-SoC/assets/120713161/8f527d3d-942e-457f-bc65-07bb005b8891)
 
+### Week 2-3 - Reinforcement Learning
+
+1. Begin studying Reinforcement Learning
+2. Study Markov Decision Processes
+
+### Resources- 
+- Introduction to RL- https://www.youtube.com/watch?v=2pWv7GOvuf0
+- Reference Book- https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
+To-Do:
+
+- Solve the maze-solver problem found [here](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2020/pa-2/programming-assignment-2.html)
