@@ -32,3 +32,8 @@ To-Do:
 To-Do:
 
 - Solve the maze-solver problem found [here](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2020/pa-2/programming-assignment-2.html)
+
+### Week 4-
+Next task is to develope the game using pygame. Following is a tutorial. You may follow it and simulate the game
+https://youtu.be/AY9MnQ4x3zk?si=3ccFgZKslAnZE0WC
+
